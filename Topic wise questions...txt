@@ -1,0 +1,283 @@
+
+
+******************************************************
+ Introduce yourself in brief. 
+***********************************************************
+
+
+
+************Basic Java ***********
+
+1) Java "programs are must" prepare it from youtube I'll provide you some of the most repeatedly asked java programs in another documents
+2) Operators in java, their types and uses.?
+3) Difference between division operator (/) and modulud operator (%).?
+4) Difference between System.out.print and System.out.println.?
+5) Explain each word mentioned in main method i.e. public static void main meaning of each word.?
+6) What is meant by return type of method.?
+7) What is the return type of main method.?
+8) What is meant by void return type.?
+9) What is meant by Array.?
+10) Whether Array is Homogeneous.?
+11) What is meant by constructor.?
+12) Can we declare multiple constructors in a same class.?
+13) Is it possible to create a class which do not have even a single constructor.?
+14) What is meant by constructor overloading.?
+15) What is the role of arguments/Parameters in constructor overloading.?
+16) what is meant by Parameterised constructor.?
+17) What is meant by object of a class.? whta's its objective.?
+18) What is meant by instance of a class.? What's its objective.?
+19) Explain the concept of static and non static.?
+20) How to decide which element to make static and which one is to make non-static.?
+21) Can we create a multiple objects of a same class.?
+22) Difference between class variable and instance variable.?
+23) What are the different different access specifiers [access modifiers] in java and there scope.?
+23) Difference between default and protected access specifiers.?
+24) Under which condition we call elements with protected access specifier outside the package.?
+25) What is menat by String.?
+26) what do you think string is homogeneous or heterogeneous.?
+27) What are the methods of string class that you know.?
+28) Strig pool area and constant and non constant pool area.?'
+29) Java programs on String are more imp. than Theory.
+
+
+
+
+************** Core Java******************
+
+1) What are the different different OOP's concepts/Principles that you know.?
+2) Explain me how/where you have used this OOP's Principles in your project.?
+3) Explain Inheritance and its types.?
+4) How we are creating inheritance between two classes.?
+5) can we inherit constructor also.?
+6) What is meant by multilevel inheritance and multiple inheritance.?
+7) Why multiple inheritance is not supported in JAVA.? How to achieve multiple inheritance.?
+8) What is meant by Diamond Ambiguity.?
+9) What is meant by Hierarchical Inheritance.?
+10) Explain JVM Memory.?
+11) What is meant by method overloading.?
+12) Can we overload static methods.?
+13) can we overload non static methods.?
+14) What is meant by method overriding.?
+15) Can we achieve method overriding without having inheritance between two classes.?
+16) Can we override static methods.?
+17) Can we override non-Static methods.?
+18) Can we override main method.?
+19) What is meant by method hiding.?
+20) Can we create method hiding with non static methods.?
+21) can we create method hiding with static methods.?
+22) Can we create method hiding when there is no inheritance between two classes.?
+23) can we create method hiding on main methods.?
+24) Method from which class is hided in method hiding.?
+25) Method from which class is overrided in method overriding.?
+26) What is meant by polymorphism.? its types and examples.?
+27) What is meant by Abstract Class.? 
+28) What is the difference between abstract class and Interface.?
+29) What is meant by abstract method.?
+30) Can we make static methods abstract.? 
+31) Can we create object of abstract class.?
+32) Can we make non static methods abstract.?
+33) Can we create complete methods in abstract class.?
+34) What is meant by concrete class.?
+35) Abstract class contains constructor or not.?
+36) What is menat by Interface in JAVA."?
+37) How to achieve 100% Abstraction in JAVA.?
+38) What are the properyties that interface assign to a variable.?
+39) What are the properties that interface assign to a method.?
+40) Interface contains constructor.?
+41) Can we create object of a Interface.?
+42) How to complete the methods that we have declired under interface.?
+43) What is meant by Implementation class.?
+44) Can we write complete methods in interface.?
+45) Can we write static method in interface.?
+46) can we inherit static method from inheritance into implementation class.?
+47) can we inherit default method from interface into implementation class.?
+48) can we perform method overriding operation on default method of interface.?
+49) Can we create/achieve multiple inheritance using interface.?
+50) which key word is used to connect interface with interface.?
+51) which key word is used to connect interface with class.?
+52) which key word is used to connect class with class.?
+53) What is meant by Abstraction.?
+54) Have you used abtraction in you project.? How.?
+55) What is menat by encapsulation.? 
+56) study casting but generally no questions asked on this topic.?
+
+
+
+
+
+
+****************** Selenium/automation*************
+
+1) Advantages and limitations of selenium.?
+2) Explain Selenium architecture.?
+3) Difference between gate and navigate method.?
+4) How to maximize the browser.?
+5) How to get current url of the webpage.?
+6) how to get title of page.?
+7) Enlist the methods of WebDriver Interface.?
+8) Enlist the methods of webElement Interface.?
+9) How to launch the browser.?
+10) What happens when we write ChromeDriver driver = new ChromeDriver() insted of writing WebDriver driver = new Chromedriver();
+11) What are the locaters that we have in selenium.? which one is fastest.?
+12) What are the types of x-paths.?
+13) How to locate webelement on webpage.?
+14) Difference between findElement method and find elements method.?
+15) Difference between absolute and relative xpath.?
+16) How to handle the DropDown/List box.?
+17) How to handle the customized list box.?
+18) How to take the screenshot of failed testcases only.?
+19) How to fetch data from Xcell sheet.?
+20) Difference between implecite, explecite and fluent wait.?
+    -- Difference between thread.sleep and selenium waits.?
+21) How to handle the popup's in selenium.?
+22) How to handle the Alerts in selenium.?
+23) Alert  is interface or class.?
+24) Methods of alert interface.?
+25) How to handle the child browsers/child browser popup's in selenium.?
+26) Difference between getWindowHandle() & getWindowHandles() method.?
+27) How to perform mouse action in selenium.?
+28) What are the methods of Action class.?
+29) How to handle the iFrames in selennium.?
+30) How to handle the dynamic elements in selenium.?
+31) Explain This and Super key words.?
+
+
+
+
+******************* TestNG ***********
+
+1) What are the TestNG annotations and their execution sequence.?
+2) What are the testNG keywords and their uses.?
+3) Explain testNG assertions.?
+4) What is meant by Soft Assert and Hard Assert.?
+5) What are the testNG Assertion methods that we use in testing.?
+
+
+
+
+*********************** Automation FrameWork **************
+
+1) Explain your project's automation Framework.?
+2) Explain Basic structure of Maven project.?
+3) How you add dependencies in your Project.?
+4) how to take screenshots of failed test cases.?
+5) How to fetch data from xcell sheet.?
+6) what is meant by data driven framework.?
+7) How to generate reports.?
+8) How to generate logs.?
+9) What is Jenkins.? why we use it.?
+10) What is GitHub.? GitHub commands.?
+11) Which version control you are using.?
+12) How to execute the failed test cases only.?
+
+
+
+************************ Exception Handling ***************
+
+1) Diffeence between error and exception.?
+2) Types of exception and their examples.?
+3) enlist the exceptions that you have faced while working on Projects.?
+4) Which is the supermost class in exception hierarchy.?
+5) How to handle the exception.?
+6) Difference between Final, Finaly and Finalize.?
+7) Difference between throws and throw.?
+
+
+
+************************************************************************************************
+Questions on collections but it will not affect your interview even if you don't know this things
+************************************************************************************************ 
+
+
+
+
+ ********************** Manual part : 1 ***********************************************
+
+1) What is your team size.?
+2) Your roles and responsibilities as a Software tester.?
+3) According to you what is meant by testing.?
+4) What is the difference between Quality check and Quality Control.?
+5) Explain SDLC.?
+6) Diffrence between varification and validation.?
+7) Advantages of Agile over waterfall and V-Model.?
+8) Explain Agile meetings/ceremonies.?
+9) What is meant by Product Backlog and Sprint Backlog.?
+10) Explain your day to day activities as a testre.?
+11) What are the diffrent types of testing you are performing in your projrct.? 
+12) Testing performed by developers (White box testings).?
+13) What is meant by stub and driver inrelation with Integration testing.?
+14) Explain black box testing.? and its types.?
+15) Explain testing techniques.?
+16) What is BVA And ECP.?
+17) What is meant by cross browser testing.?
+18) Difference between Sanity and Smoke Testing.?
+19) Difference between Retesting and regression.?
+20) Testing performed in UAT Environment.?
+21) What is meant by hot fix.?
+22) What is meant by CR .?
+23) How you will deal with Hot fix/CR.?
+24) Explain adhoc testing, exploratery testing .?
+25) Define Priority and severty.?
+26) Give Examples for High priority and High severty.?
+27) Give Examples for Low priority and low severty.?
+28) Give Examples for low priority and high severty.?
+29) Give Examples for High priority and low severty.?
+30) What is the Objective of Integration testing.?
+31) Difference between error, bug and defect.?
+32) If you found a bug on last day of the sprint.? what will be your approach to deal with this scenario.?
+33) You found a bug but developer not accepting it.? how you will deal with this scenario.?
+34) You are assigned on new Project which is completely new for you what approach you will follow.?
+
+
+
+*************************** Manual Part : 2 ******************************************
+
+most inportantly they will ask to write test cases on any given application functionality or object
+
+1) What is meant by TRM.?
+2) What is test plan.?
+3) Difference between test scenarios and test cases.?
+4) Explain STLC.
+5) Explain levels of testing.?
+6) Difference between unit testing and Integration testing.?
+7) Test cases Review policy in your organization.?
+8) What is meant by Traceability Matrix.? how to prepare it.?
+9) Explain Defect life cycle.?'
+10) What is your roles and responsibility as a tester.?
+11) When we say that testing is completed.?
+12) Which project management tool you are using.?
+13) How to raise defect in JIRA.? Steps.?
+14) What is the entry and exit criteria for testing.?
+15) How many test cases you can write on one user story.?
+
+
+
+
+*************************** SQL/Database Testing***************
+
+1) Basic SQL Query Syntaxex and SQL Joins Syntaxes.?
+2) Primary Key and Foreign key.?
+3) Subsets of SQL.?
+4) Which tool used for database testing.?
+5) Difference between detele, drop and truncate.?
+
+
+
+************************** API testing ****************************
+
+1) Difference between API and WebServices.?
+2) Why we do API testing insted of checking same finctionality on UI.?
+3) Diffrenet different HTTP Methods that you have used.?
+4) Which method is relatively more safe.?
+5) What we test in API.? what we validate in API response.?
+6) Which tool you use for API Testing.?
+7) Status codes.?
+8) Difference between URL and URI.?
+
+
+
+
+**************************** Project ***********************************
+
+1) Explain your Project.
+

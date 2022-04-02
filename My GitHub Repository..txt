@@ -1,0 +1,4 @@
+https://github.com/QAKrishna/InetbankingAutomationProject.git
+
+git init --> create an empty git repository
+git remote add origin "https://github.com/QAKrishna/Warmup_Tobegin_Again.git" ---> conect local repo with remote repo
